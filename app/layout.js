@@ -9,6 +9,13 @@ export const metadata = {
     "PinMentor",
     "Pinterest marketing"
   ],
+
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
+
   openGraph: {
     title: "PinMentor – Launching Soon",
     description:
